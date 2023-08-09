@@ -1,2 +1,3 @@
-src/main.o
-hello.out
+src/*.o
+*.o
+*.out
